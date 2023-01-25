@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stress Detection in Lifelog Data for Improved Personalized Lifelog Retrieval System**
 
-- 👨‍💻 All of my publications are available at [https://scholar.google.com/citations?user=BWsFZw4AAAAJ&hl=en](https://scholar.google.com/citations?user=BWsFZw4AAAAJ&hl=en)
+- 👨‍💻 All of my publications are available at [https://scholar.google.com/citations?user=BWsFZw4AAAAJ&hl=en](my google scholar profile)
 
 - 📫 How to reach me **tuninh.2411@gmail.com**
 
