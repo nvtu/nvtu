@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tu Ninh</h1>
-<h3 align="center">I'm a PhD Student at Dublin City University, a Researcher, and a Fullstack Web-Developer.</h3>
+<h3 align="center">I'm a Doctoral Researcher and a Full-Stack Developer at Dublin City University.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvtu&label=Profile%20views&color=0e75b6&style=flat" alt="nvtu" /> </p>
 
 
