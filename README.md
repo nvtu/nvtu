@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tu Ninh</h1>
-<h3 align="center">I'm a Doctoral Researcher and a Full-Stack Developer at Dublin City University.</h3>
+<h3 align="center">I'm a Senior Data Scientist at Optum.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvtu&label=Profile%20views&color=0e75b6&style=flat" alt="nvtu" /> </p>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvtu" alt="nvtu" /></a> </p> -->
 
-- 🔭 I’m currently working on **Stress Detection in Lifelog Data for Improved Personalized Lifelog Retrieval System**.
+- 🔭 I previously worked on **Stress Detection in Lifelog Data for Improved Personalized Lifelog Retrieval System** during my PhD.
 
 - 👨‍💻 All of my publications are available at **[My Google Scholar Profile](https://scholar.google.com/citations?user=BWsFZw4AAAAJ&hl=en)**.
 
-- 📫 You can reach me by sending message to my email address: **tuninh.2411@gmail.com**.
+- 📫 You can reach me by sending a message to my email address: **tuninh.2411@gmail.com**.
 
-- ⚡ Fun fact **I am actually a night owl!!!**
+- ⚡ Fun fact **I am not a night owl anymore!!!**
 
 <p align="center" ><a href="#"><img  width="auto" height="auto" src="https://cdn.aarp.net/content/dam/aarp/health/healthy-living/2019/01/1140-morning-night-owl.imgcache.rev.web.700.402.jpg"/></a></p>
 <h3 align="left">Connect with me:</h3>
